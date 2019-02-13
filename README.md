@@ -1,7 +1,11 @@
 # PyEcharts
 The practice coding of learning PyEcharts
 
-整理的可视化画图，中文网址：http://pyecharts.org/#/，github网址：https://github.com/pyecharts/pyecharts。主要包括常用和将来做数据展示可能要到的一些图。
+整理的可视化画图，中文网址：http://pyecharts.org/#/
+
+github网址：https://github.com/pyecharts/pyecharts
+
+主要包括常用和将来做数据展示可能要到的一些图。
 
 下面的序号表示在ipnb文件中的画图顺序，方便查找
 
