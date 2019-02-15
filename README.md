@@ -1,4 +1,6 @@
 # PyEcharts
+### 1：前言
+
 The practice coding of learning PyEcharts
 
 整理的可视化画图，中文网址：http://pyecharts.org/#/
@@ -26,7 +28,7 @@ github网址：https://github.com/pyecharts/pyecharts
 
 
 
-
+### **2：在jupyter notebook中的示例，序号表示顺序，为了快速查找**
 
 1. **最基本的柱形图**
 2.  **多次显示图标**
