@@ -11,7 +11,7 @@ github网址：https://github.com/pyecharts/pyecharts
 
 下面的序号表示在ipnb文件中的画图顺序，方便查找
 
-**备注：**
+**备注1：**
 
 - 全球国家地图: echarts-countries-pypkg (1.9MB)
 
@@ -25,6 +25,16 @@ github网址：https://github.com/pyecharts/pyecharts
 - pip install echarts-countries-pypkg
 - pip install echarts-china-provinces-pypkg
 - pip install echarts-china-cities-pypkg
+
+
+
+**备注2：**
+
+- 代码中的.render()表示生成一个HTML的网页，为了直观地在jupyterNotebook下展示，将该行代码注释掉了，如果需要，可以去掉注释。
+
+
+
+
 
 
 
